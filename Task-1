@@ -13,7 +13,7 @@
 
   <nav>
     <ul>
-      <li><b><a href="https://dribbble.com/tags/shopping-website">Home</a></b></li>
+      <li><b><a href="#">Home</a></b></li>
       <li><b><a href="#">About</a></b></li>
       <li><b><a href="#">Services</a></b></li>
       <li><b><a href="#">Contact</a></b> </li>
@@ -22,16 +22,16 @@
 
   <main>
     <section>
-<h1> Online shopping </h1>
-      <p><b><button type="button"><a href="https://dribbble.com/tags/shopping-website">click here to enter</a></p></b>
+<h1>Foot wear</h1>
+      <p><b><button type="button"><a href="https://www.amazon.com/s?k=wide+casual+women+shoes&adgrpid=1340307075889289&hvadid=83769455604478&hvbmt=bb&hvdev=c&hvlocphy=149877&hvnetw=o&hvqmt=b&hvtargid=kwd-83770244077365&hydadcr=7885_13584055&msclkid=8850889fc12d10d4378ceef4cb82e93b&tag=mh0b-20&ref=pd_sl_pzdnamsnv_b">click here to enter</a></p></b>
     </section>
 
     <section>
-      <h2>Our Services</h2>
+      <h2>models</h2>
       <ul>
-        <li>Web Design</li>
-        <li>Graphic Design</li>
-        <li>Content Writing</li>
+        <li>sandles</li>
+        <li>flip flops</li>
+        <li>shoes</li>
       </ul>
     </section>
   </main>
